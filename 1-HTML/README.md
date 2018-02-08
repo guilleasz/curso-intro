@@ -301,10 +301,10 @@ Ya habíamos visto que HTML era un lenguaje de tipo Markup, pero existen otros. 
 Copiá este código Markdown al editor Atom y apretá "Ctrl + Shift + M" (Cmd + Shift + M en Mac) para abrir el 'markdown preview', que te muestra cómo se va a ver (cómo se **renderiza**) el código que escribís.
 
 ```md
-# Esto es un Header
-## Este es un header más pequeño
-### Todavía más pequeño...
-###### demasido pequeño
+\# Esto es un Header
+\## Este es un header más pequeño
+\### Todavía más pequeño...
+\###### demasido pequeño
 
 Acá va un poco de texto normal. Un parráfo, inclusive!
 
